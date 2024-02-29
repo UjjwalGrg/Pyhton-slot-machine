@@ -1,1 +1,1 @@
-# Pyhton-Slot-Machine
+# Python-Slot-Machine
